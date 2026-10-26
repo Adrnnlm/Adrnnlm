@@ -21,7 +21,7 @@ permalink: /
     <h2>Des modèles microscopiques aux dynamiques collectives</h2>
   </div>
   <div class="prose-large">
-    <p>Je suis doctorante au <a href="https://portail.polytechnique.edu/cmap/fr" target="_blank" rel="noopener">CMAP</a> (École polytechnique) et au <a href="https://lama.u-pem.fr/" target="_blank" rel="noopener">LAMA</a> (Université Gustave Eiffel), sous la direction de Pierre Monmarché et Milica Tomašević.</p>
+    <p>Je suis doctorante au <a href="https://portail.polytechnique.edu/cmap/" target="_blank" rel="noopener">CMAP</a> (École polytechnique) et au <a href="https://lama.u-pem.fr/" target="_blank" rel="noopener">LAMA</a> (Université Gustave Eiffel), sous la direction de Pierre Monmarché et Milica Tomašević.</p>
     <p>Mes recherches se situent à l’interface des probabilités, des systèmes de particules et des équations de type McKean–Vlasov. Je m’intéresse en particulier à l’influence de la mémoire sur la propagation du chaos et sur les régimes asymptotiques.</p>
   </div>
 </section>
