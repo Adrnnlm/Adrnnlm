@@ -13,4 +13,3 @@ exclude:
   - README.md
   - build-preview.sh
   - dist
-  - .openai
