@@ -15,7 +15,8 @@
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body {
-  margin: 0;
+  margin-left: 5%;
+  margin-right: 5%;
   color: var(--ink);
   background: var(--paper);
   font: 1rem/1.7 var(--sans);
